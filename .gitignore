@@ -1,5 +1,7 @@
-coverage/
-node_modules/
-packages/
-templates/
-package-lock.json
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
